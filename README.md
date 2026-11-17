@@ -35,6 +35,10 @@ pip install -r requirements.txt
 
 ---
 
+## Research Objective
+
+Evaluate w*ether body camera implementation c*uld potentially improve policing o*tcomes using crime statistics*and demographic data from*Allentown, Pennsylvania. The study*focuses on quantitative data analy*is, trend identification, and evid*nce-based*policy evaluation.
+
 ## **Objectives**
 - Examine crime incident patterns across Allentown during 2016  
 - Identify temporal trends (daily, weekly, monthly)  
