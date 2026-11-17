@@ -1,24 +1,41 @@
+# Python
 __pycache__/
 *.py[cod]
 
 venv/
 .venv/
+env/
 
-.ipynb_che*kpoints/
+.ipynb_checkpoints/
 
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# IDEs
 .vscode/
 .idea/
 
-.env
+# Testing
+.pytest_cache/
+.coverage
 
-**log
-
-.py*est_cache/
-
+# Build files
 build/
 dist/
-*.egg*info/
+*.egg-info/
 
+# Environment variables
+.env
+
+# Outputs
+outputs/
+figures/
+reports/
+
+# Logs
+*.log
+
+# OS files
 .DS_Store
 Thumbs.db
-*
