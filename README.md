@@ -7,6 +7,34 @@ The project was completed as part of an academic research sequence in applied st
 
 ---
 
+## Installation
+
+```bash
+git clone https://github.com/niecestroa/Allentown-Police-2016-Crime-Research.git
+
+cd Allentown-Police-2016-Crime-Research
+
+pip install -r requirements.txt
+```
+
+## Skills Demonstrated
+
+- Research Design
+- Statistical Analysis
+- Public Policy Research
+- Criminal Justice Analytics
+- Data Cleaning
+- Exploratory Data Analysis
+- Demographic Analysis
+- Data Visualization
+- Hypothesis Testing
+- Quantitative Research
+- Excel Analytics
+- Python Programming
+- Reproducible Research
+
+---
+
 ## **Objectives**
 - Examine crime incident patterns across Allentown during 2016  
 - Identify temporal trends (daily, weekly, monthly)  
@@ -64,3 +92,8 @@ It does **not** represent professional crime‑analysis standards, nor does it a
 ## **Academic Disclaimer**
 This research was completed as an **undergraduate academic project** using introductory statistical methods and publicly available data. All analyses, interpretations, and visualizations are intended **solely for educational and historical demonstration**.  
 They must **not** be used for operational decision‑making, policing strategy, or real‑world crime analysis.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
